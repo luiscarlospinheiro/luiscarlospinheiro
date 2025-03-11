@@ -1,5 +1,5 @@
 - 👋 print("Hello world, my name is Luís")
-- 👀 Studyng: Python, Javascript , SQL
+- 👀 Studyng: Python, Javascript , SQL.
  
 <div align="center">
 <a href="https://github.com/luiscarlospinheiro">
